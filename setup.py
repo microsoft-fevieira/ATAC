@@ -5,7 +5,6 @@ setup(
     version='0.1.0',
     author='Ching-An Cheng',
     author_email='chinganc@microsoft.com',
-    package_dir={'':'src'},
     packages=['atac'],
     url='https://github.com/chinganc/atac',
     license='MIT LICENSE',
